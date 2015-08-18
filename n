@@ -1,0 +1,6 @@
+echo "# bf-kernel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/androidbftab1/bf-kernel.git
+git push -u origin master
